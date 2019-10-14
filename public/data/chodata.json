@@ -1,0 +1,71 @@
+{
+  "status" : 200,
+  "chobook" : [
+    { 
+      "title": "诸天里的美食家", 
+      "author": "斯文客南宫恨", 
+      "class": "科幻", 
+      "serialize": "连载", 
+      "howmany": "79万字", 
+      "recommend": "在中华小当家、食戬之灵、美食的俘虏混合世界里觉醒美食家系统", 
+      "img": "http://bookcover.yuewen.com/qdbimg/349573/1015378494/150" 
+    },
+    { 
+      "title": "天下第九", 
+      "author": "鹅是老五", 
+      "class": "仙侠", 
+      "serialize": "连载", 
+      "howmany": "257万字", 
+      "recommend": "得宇宙第九道则，破开鸿蒙，成就无上强者", 
+      "img": "http://bookcover.yuewen.com/qdbimg/349573/1011831961/150" 
+    },
+    { 
+      "title": "诸天剧透群", 
+      "author": "渡红尘", 
+      "class": "玄幻", 
+      "serialize": "连载", 
+      "howmany": "135万字", 
+      "recommend": "穿越天地复苏的平行世界，偶获诸天聊天群", 
+      "img": "http://bookcover.yuewen.com/qdbimg/349573/1014907056/150" 
+    }
+  ],
+
+  "booktime": [
+    {
+      "title": "大当家不好了",
+      "author": "雨天下雨",
+      "class": "历史", 
+      "serialize": "连载", 
+      "howmany": "36万字", 
+      "recommend": "醒掌天下权，醉卧美人膝，五千年风华烟雨，是非成败转头空！", 
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1015859954/180"
+    },
+    {
+      "title": "沧元图",
+      "author": "我吃西红柿",
+      "class": "玄幻", 
+      "serialize": "连载", 
+      "howmany": "24万字", 
+      "recommend": "心潮澎湃，无限幻想，迎风挥击千层浪，少年不败热血！", 
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1015499829/180"
+    },
+    {
+      "title": "这号有毒",
+      "author": "幼儿园一把手",
+      "class": "轻小说", 
+      "serialize": "连载", 
+      "howmany": "6.7万字", 
+      "recommend": "热血的少年，为打破次元壁一往无前！", 
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016418552/180"
+    },
+    {
+      "title": "怪物被杀就会死",
+      "author": "阴天神隐",
+      "class": "轻小说", 
+      "serialize": "连载", 
+      "howmany": "45万字", 
+      "recommend": "热血的少年，为打破次元壁一往无前！", 
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016073648/180"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "manchannel":[
+    {
+      "title": "玄幻",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016360497/90",
+      "count": "52,679部",
+      "path": "/classshow/xuanhuan"
+    },
+    {
+      "title": "奇幻",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016295595/90",
+      "count": "17,530部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "武侠",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016072126/90",
+      "count": "8,616部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "仙侠",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1015488727/90",
+      "count": "18,193部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "都市",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016376326/90",
+      "count": "24,124部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "现实",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016356163/90",
+      "count": "4,344部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "历史",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016289318/90",
+      "count": "11,217部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "军事",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016271765/90",
+      "count": "1,295部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "游戏",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016261544/90",
+      "count": "10,510部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "体育",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1012394723/90",
+      "count": "1,839部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "科幻",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016130446/90",
+      "count": "18,575部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "悬疑",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016296913/90",
+      "count": "6,981部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "轻小说",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1016195658/150",
+      "count": "16,623部",
+      "path": "javascript:;"
+    },
+    {
+      "title": "短篇",
+      "img": "//bookcover.yuewen.com/qdbimg/349573/1013491545/90",
+      "count": "6,355部",
+      "path": "javascript:;"
+    }
+  ]
+}
