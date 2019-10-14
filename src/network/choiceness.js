@@ -10,7 +10,6 @@ export function chodata(config){
   choinstance.interceptors.request.use(config => {
     // console.log(config)
     return config
-    return config
   }, err => {
     console.log(err)
   })
