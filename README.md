@@ -22,4 +22,6 @@ npm run build
 
 ###
 在这App里面用到以下第三方插件
-swiper/better-scroll/axios/
+swiper/better-scroll/axios/postcss-px-to-viewport
+
+为了在不同手机上得到相同的页面，在改项目里也用到了postcss-px-to-viewport
